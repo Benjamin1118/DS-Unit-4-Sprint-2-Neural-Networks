@@ -1,0 +1,25 @@
+{
+    "root": "C:/Users/benja/OneDrive/Desktop/lambda_note/New folder/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Benjamin1118/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "1638b13072ff9e86d0470693913e2e590c5a3153"
+    },
+    "email": "benjaminbishop12@gmail.com",
+    "startedAt": "2020-03-19T17:37:06.802133",
+    "host": "LAPTOP-GUN9A2U5",
+    "username": "benja",
+    "executable": "C:\\Users\\benja\\Anaconda3\\envs\\U4-S2-NN\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.0",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "C:\\Users\\benja\\AppData\\Roaming\\jupyter\\runtime\\kernel-406fec06-13ae-4735-849e-1c38a4260e4b.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "project": "ds11_inclass",
+    "heartbeatAt": "2020-03-19T17:42:00.942381"
+}
